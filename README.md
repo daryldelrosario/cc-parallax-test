@@ -3,4 +3,4 @@ This was a tutorial product from CC using SASS to create a parallax effect. Howe
 Will have to keep practising. It looks like the background is NOT staying fixed. 
 
 ## <a href="https://daryldelrosario.github.io/cc-parallax-test/">Live Demo</a>
-
+<kbd><img src="./cc-parallax-text-ld-not-working.gif" alt="live demo gif showing current version"></kbd>
