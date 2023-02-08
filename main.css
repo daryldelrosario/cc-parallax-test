@@ -7,7 +7,8 @@ body {
 }
 
 #landscape {
-  background: url("https://content.codecademy.com/projects/sass/landscape.jpg") no-repeat center center fixed;
+  background: url("https://content.codecademy.com/projects/sass/landscape.jpg") no-repeat center center;
+  background-attachment: fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -15,7 +16,8 @@ body {
 }
 
 #monkeys {
-  background: url("https://content.codecademy.com/projects/sass/monkeys.jpg") no-repeat center center fixed;
+  background: url("https://content.codecademy.com/projects/sass/monkeys.jpg") no-repeat center center;
+  background-attachment: fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
